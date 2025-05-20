@@ -1,8 +1,8 @@
 <script setup>
-// Root component setup
 </script>
 
 <template>
+  <h1>hello</h1>
   <router-view />
 </template>
 
