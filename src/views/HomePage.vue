@@ -1,6 +1,6 @@
 <template>
   <div class="home-page">
-    <h1>Welcome to SimpleCommerce</h1>
+    <h1>Welcome to SimpleCommerceeee</h1>
   </div>
 </template>
 
